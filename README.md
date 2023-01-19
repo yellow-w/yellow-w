@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src ="https://img.shields.io/badge/-PostgreSQL-lightgrey?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/>
-<img src="https://img.shields.io/badge/-TypeORM-orange?style=flat-square&logo=TypeOrm&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TypeORM-orange?style=flat-square&logo=typeorm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
 <br><br>
 <br><br>
