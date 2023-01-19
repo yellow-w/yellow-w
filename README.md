@@ -20,8 +20,14 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Good%20day!&fontSize=90)
 
 ## GitHub stats
-[![yellow-w's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellow-w&hide=stars&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![yellow-w's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellow-w&count_private=true&hide=stars&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
+  
+ 
+@@ Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yellow-w&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 ## Tech Stack
